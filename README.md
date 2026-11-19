@@ -1,4 +1,4 @@
-# Quiz App 📝
+# QuizKilat 📝
 A **responsive and interactive Quiz App** built using **HTML, CSS, and Vanilla JavaScript** — no frameworks required.  
 This project was developed as part of a **Udemy course by James Q Quick**, focusing on practical, real-world frontend development.
 
